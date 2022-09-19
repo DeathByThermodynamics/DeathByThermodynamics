@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently researching making games to assist with STEM learning.
+- 🔭 I'm currently learning Computer Science and Physics at UofT.
 - ✨ I'm an avid HOI4 modder.
 - 📫 How to reach me: email - alexhemo2013@gmail.com
 - 🤔 I'm currently learning 3D modeling and animation.
