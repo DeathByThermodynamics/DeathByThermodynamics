@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently learning Computer Science and Physics at UofT.
+- 🔭 I'm currently studying Computer Science and Physics at UofT.
 - ✨ I'm an avid HOI4 modder.
 - 📫 How to reach me: email - alexhemo2013@gmail.com
 - 🤔 I'm currently learning Unreal Engine.
