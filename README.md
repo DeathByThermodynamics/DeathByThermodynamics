@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ✨ I'm an avid HOI4 modder.
 - 📫 How to reach me: email - alexhemo2013@gmail.com
 - 🤔 I'm currently learning Unreal Engine.
-- ⚡ I have experience in: Python, Java, C++, C#, HTML, CSS, Unity, Blender.
+- ⚡ I have experience in: Python, Java, JS, C, C++, C#, HTML, CSS, Unity, Unreal, Blender.
