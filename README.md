@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email - alexhemo2013@gmail.com
 - 🤔 I'm currently learning Unreal Engine.
 - ⚡ I have experience in: Python, Java, JS, C, C++, C#, HTML, CSS, Unity, Unreal, Blender.
+- 🌱 Latest research: https://arxiv.org/abs/2412.15947
